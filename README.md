@@ -1,9 +1,9 @@
-#🌐 Vulnerable Web Application – Security Analysis
-#📌 Overview
+# 🌐 Vulnerable Web Application – Security Analysis
+# 📌 Overview
 
 This project focuses on the security analysis of a deliberately vulnerable web application using static code analysis and manual testing. The assessment aligns findings with the OWASP Top 10 (2021) and demonstrates exploitation techniques alongside secure remediation strategies.
 
-🎯 Objectives
+# 🎯 Objectives
 
 Identify insecure coding patterns
 
@@ -13,7 +13,7 @@ Demonstrate exploitation impact
 
 Recommend secure coding fixes
 
-🔎 Assessment Approach
+# 🔎 Assessment Approach
 Static Code Scan Findings
 
 Hardcoded credentials
@@ -36,13 +36,13 @@ SQL injection via API path parameters
 
 Reflected XSS attempts
 
-⚠️ Severity Highlights
+# ⚠️ Severity Highlights
 
 Critical: SQL Injection, Broken Access Control
 
 High: Broken Authentication, Weak Cryptography, XSS
 
-🛠️ Mitigations Implemented
+# 🛠️ Mitigations Implemented
 
 Parameterized queries for database access
 
@@ -54,13 +54,13 @@ Input validation and output encoding
 
 Rate limiting and account lockout mechanisms
 
-📚 Standards & References
+# 📚 Standards & References
 
 OWASP Top 10 (2021)
 
 Secure Coding Best Practices
 
-🧠 Key Takeaways
+# 🧠 Key Takeaways
 
 This project demonstrates strong foundations in web application security, vulnerability analysis, and secure development practices.
 
