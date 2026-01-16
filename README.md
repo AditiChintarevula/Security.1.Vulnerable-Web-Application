@@ -1,5 +1,5 @@
-🌐 Vulnerable Web Application – Security Analysis
-📌 Overview
+#🌐 Vulnerable Web Application – Security Analysis
+#📌 Overview
 
 This project focuses on the security analysis of a deliberately vulnerable web application using static code analysis and manual testing. The assessment aligns findings with the OWASP Top 10 (2021) and demonstrates exploitation techniques alongside secure remediation strategies.
 
